@@ -4,11 +4,11 @@ This Python code simulates a basic ATM (Automated Teller Machine) system. It all
 
 Features
 <ul>
-PIN Verification: Requires a correct PIN for all transactions.
-Transaction History: Keeps a record of all transactions.
-Total Calculations: Tracks total withdrawals and deposits.
-PIN Change: Allows users to change their PIN for security.
-User-Friendly Interface: Provides a simple menu-driven interface for easy interaction.
+<li>PIN Verification: Requires a correct PIN for all transactions.</li>
+<li>Transaction History: Keeps a record of all transactions.</li>
+<li>Total Calculations: Tracks total withdrawals and deposits.
+</li><li>PIN Change: Allows users to change their PIN for security.</li>
+<li>User-Friendly Interface: Provides a simple menu-driven interface for easy interaction.</li>
 </ul>
 Usage:-
 
