@@ -13,10 +13,10 @@ Features
 Usage:-
 
 <ul>
-Run the Code: Execute the Python script.
-Enter PIN: You'll be prompted to enter your initial PIN.
-Choose Options: Select the desired operation from the menu.
-Follow Instructions: Follow the on-screen prompts to complete each transaction.
+<li>Run the Code: Execute the Python script.</li>
+<li>Enter PIN: You'll be prompted to enter your initial PIN.</li>
+<li>Choose Options: Select the desired operation from the menu.</li>
+<li>Follow Instructions: Follow the on-screen prompts to complete each transaction.</li>
 </ul>
 Customization
 Initial PIN and Balance: Modify the pin and balance variables at the beginning of the code to set the initial values.
