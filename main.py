@@ -14,7 +14,7 @@ class ATM:
         self.ttl_withdrew = ttl_withdrew
 
 # this is atm
-
+# this is krit coder
 
     def wtdrw_blnc(self):
         amt1 = int(input("Enter the amount yo want to withdraw: "))
