@@ -4,7 +4,7 @@ balance = 987654
 transaction = []
 ttl_deposit=0
 ttl_withdrew =0
-
+# message from krit
 class ATM:
     def __init__(self,pin,balance):
         self.pin = pin 
