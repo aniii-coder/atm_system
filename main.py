@@ -13,6 +13,7 @@ class ATM:
         self.ttl_deposit = ttl_deposit
         self.ttl_withdrew = ttl_withdrew
 
+# this is atm
 
 
     def wtdrw_blnc(self):
