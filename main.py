@@ -15,7 +15,7 @@ class ATM:
 
 # this is atm
 # this is krit coderfjhsdgfhjsdabfjksdam
-
+# kriti
     def wtdrw_blnc(self):
         amt1 = int(input("Enter the amount yo want to withdraw: "))
         self.balance = self.balance - amt1
