@@ -4,7 +4,7 @@ balance = 987654
 transaction = []
 ttl_deposit=0
 ttl_withdrew =0
-
+# message from krit
 class ATM:
     def __init__(self,pin,balance):
         self.pin = pin 
@@ -13,8 +13,9 @@ class ATM:
         self.ttl_deposit = ttl_deposit
         self.ttl_withdrew = ttl_withdrew
 
-
-
+# this is atm
+# this is krit coderfjhsdgfhjsdabfjksdam
+# kriti
     def wtdrw_blnc(self):
         amt1 = int(input("Enter the amount yo want to withdraw: "))
         self.balance = self.balance - amt1
